@@ -1,5 +1,5 @@
 # Fender Digital DevOps Engineering Challenge
-### Using automation tools of your choice, create a method to provision the given environment:
+Using automation tools of your choice, create a method to provision the given environment:
 
 ### Create a simple code snippet that receives a POST request 
 * The **POST** method should save the time, the user name and the endpoint on a database of your choice. 
