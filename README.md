@@ -26,7 +26,7 @@ Using automation tools of your choice, create a method to provision the given en
 * Bonus points for security, specs, Lambda, API Gateway and DynamoDb.
 * In case you decide to go for Lambda, all the requirements of your project should be part of a layer.
 * Feel free to use whatever db you like; we suggest Postgres or DynamoDB for NoSql.
-* We expect this project to take 2 days to complete (but no rush, take your time and do your best!)
+* We expect this project to take no more than 2 days to complete (but no rush, take your time and do your best!)
 * Do as little or as much as you like.
 * Show your best thinking and don't frustrate yourself in case you don't finish the whole challenge. Show us what you achieved!
 * Please fork this repo and commit your code into that fork. Show your work and process through the commits.
