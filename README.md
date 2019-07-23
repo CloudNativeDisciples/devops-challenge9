@@ -30,3 +30,5 @@ Using automation tools of your choice, create a method to provision the environm
 * In case you decide to go for Lambda, all the requirements of your project should be part of a layer
 * We expect this project to take no more than 2 days to complete (but no rush, take your time and do your best!)
 * Show your best thinking and don't frustrate yourself in case you don't finish the whole challenge. Show us what you achieved!
+
+When ready to start, create a public repository and send the link back to us.
